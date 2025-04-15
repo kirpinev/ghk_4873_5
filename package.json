@@ -15,12 +15,10 @@
     "@vanilla-extract/css": "^1.15.2",
     "@vanilla-extract/recipes": "^0.5.3",
     "@vanilla-extract/vite-plugin": "^4.0.10",
-    "prettier": "^3.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-mobile-picker": "^1.1.1",
-    "swiper": "^11.1.14",
-    "vite-plugin-mkcert": "^1.17.8"
+    "swiper": "^11.1.14"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
