@@ -113,7 +113,7 @@ export const App = () => {
           Выберите сумму и срок
         </Typography.Text>
 
-        <div style={{ paddingLeft: "1rem", paddingRight: "1rem" }}>
+        <div style={{ marginLeft: "1rem", marginRight: "1rem" }}>
           <SliderInput
             block={true}
             value={amount * 100}
