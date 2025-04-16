@@ -258,10 +258,7 @@ export const App = () => {
                 view="primary-medium"
                 style={{ marginBottom: 0 }}
               >
-                {Math.floor(
-                  amount / (pickerValue.month as number),
-                ).toLocaleString("ru-RU")}{" "}
-                ₽
+                любой
               </Typography.Text>
             </div>
             <div style={{ display: "flex", gap: "0.5rem" }}>
