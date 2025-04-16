@@ -91,7 +91,7 @@ export const App = () => {
           view="medium"
           className={appSt.productsTitle}
         >
-          Деньги под рукой
+          Альфа-лимит
         </Typography.TitleResponsive>
         <Gap size={8} />
         <Typography.Text
